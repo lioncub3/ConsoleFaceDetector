@@ -1,0 +1,11 @@
+C:\Users\s28-vp\source\repos\FaceScanner\FaceScanner\obj\Debug\netcoreapp2.2\FaceScanner.csprojAssemblyReference.cache
+C:\Users\s28-vp\source\repos\FaceScanner\FaceScanner\obj\Debug\netcoreapp2.2\FaceScanner.csproj.CoreCompileInputs.cache
+C:\Users\s28-vp\source\repos\FaceScanner\FaceScanner\obj\Debug\netcoreapp2.2\FaceScanner.AssemblyInfoInputs.cache
+C:\Users\s28-vp\source\repos\FaceScanner\FaceScanner\obj\Debug\netcoreapp2.2\FaceScanner.AssemblyInfo.cs
+C:\Users\s28-vp\source\repos\FaceScanner\FaceScanner\bin\Debug\netcoreapp2.2\FaceScanner.deps.json
+C:\Users\s28-vp\source\repos\FaceScanner\FaceScanner\bin\Debug\netcoreapp2.2\FaceScanner.runtimeconfig.json
+C:\Users\s28-vp\source\repos\FaceScanner\FaceScanner\bin\Debug\netcoreapp2.2\FaceScanner.runtimeconfig.dev.json
+C:\Users\s28-vp\source\repos\FaceScanner\FaceScanner\bin\Debug\netcoreapp2.2\FaceScanner.dll
+C:\Users\s28-vp\source\repos\FaceScanner\FaceScanner\bin\Debug\netcoreapp2.2\FaceScanner.pdb
+C:\Users\s28-vp\source\repos\FaceScanner\FaceScanner\obj\Debug\netcoreapp2.2\FaceScanner.dll
+C:\Users\s28-vp\source\repos\FaceScanner\FaceScanner\obj\Debug\netcoreapp2.2\FaceScanner.pdb
